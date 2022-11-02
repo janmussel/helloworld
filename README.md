@@ -1,2 +1,2 @@
 # helloworld
-A universal greeting app
+A universal and powerful greeting app
